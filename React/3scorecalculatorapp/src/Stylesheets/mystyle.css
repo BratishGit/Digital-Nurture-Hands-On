@@ -1,0 +1,23 @@
+body{
+    background-color: #f4f4f4;
+}
+.box{
+    width: 400px;
+    margin:40px auto;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0 0 10px gray;
+
+}
+h1{
+    color:darkblue;
+}
+h2{
+    color:green;
+}
+p{
+    font-size: 18px;
+}
